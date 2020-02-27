@@ -4,33 +4,21 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 np.random.seed(69)
 
+
+def ids_for_genre(genre, movie_df):
+    '''All movie id's for movies of a genre'''
+    return movie_df.loc[movie_df[genre] == 1, "Movie Id"].values
+
+
 def plot_w_genre(genres, movie_df, V, dim_3=False, 
                  n_mov=30, colors=None, ax=None,
                  annotate=True):
     '''
     Plot V's features, in 2d or 3d (set dim_3 to True for 3d),
-    separating colors based on genre
-    
-    Args:
-        genres: list of genres to consider
-        movie_df: a movie dataframe with info on
-                what genres each movie is
-        V: a matrix of (nMovies, k) dimensions, (result of
-            using PCA / SVD on V from collaborative filtering),
-            principal components to plot
-        n_mov: number of movies of each genre to plot,
-        colors: List of colors of same length as genres list
-                (or leave as None)
-        ax: An axis to plot on, has to be a 3d axis if dim_3 is True
-        annotate: Whether to label points with movie titles or not
-        dim_3: Plot in 3d (default is 2d). 
-               **N.B. from mpl_toolkits.mplot3d import Axes3D must be added**
-               
-    Returns:
-        axis if ax was None
+    separating colors based on genre (see plot_w_ids for more info)
     '''
     assert(V.shape[1] >= (3 if dim_3 else 2))
-    ids = [movie_df.loc[movie_df[g] == 1, "Movie Id"][:n_mov].values for g in genres]
+    ids = [ids_for_genre(g, movie_df)[:n_mov] for g in genres]
     return plot_w_ids(ids, movie_df, V, dim_3=dim_3, 
                       n_mov=n_mov, colors=colors, ax=ax,
                       annotate=annotate, labels=genres)
@@ -63,7 +51,7 @@ def plot_w_ids(ids, movie_df, V, dim_3=False,
         axis if ax was None
     '''
     assert(V.shape[1] >= (3 if dim_3 else 2))
-    sub_Vs = [V[sub_ids - 1] for sub_ids in ids]
+    sub_Vs = [V[sub_ids - 1] for sub_ids in ids] # 1-indexed V
 
     if colors is None:
         colors = plt.cm.viridis(np.linspace(0, 1, len(ids)))
@@ -108,19 +96,47 @@ def pop_movs_ids(data_df, nMovies=10, get_least_pop=False):
     val_counts = data_df["Movie Id"].value_counts(sort=True)[::direc]
     return val_counts[:nMovies].index
 
-def subselect_from_ids(data_df, ids, V = None):
+def subselect_from_ids(data_df, ids):
     '''
     Subselect rows from either the data df (if V is None)
     or V matrix, given a list of ids to use
     '''
     inds = data_df["Movie Id"].isin(ids)
-    if V is None:
-        return data_df.loc[inds - 1, :]
-    return V[inds]
+    return data_df.loc[inds, :]
 
-def get_genre_reps(V, movie_df, normalize=False):
-    inds = movie_df[genre] >= 0
-    V[inds, :]
+def get_genre_reps(V, movie_df, genres=None, normalize=False):
+    '''
+    Get the representative (the mean of all points in the genre) 
+    given V and a movie_df
+    '''
+    if genres is None:
+        genres = movie_df.columns[2:]
+    reps = []
+    for genre in genres:
+        # Find weights
+        sub_df = movie_df.loc[movie_df[genre] == 1, genres]
+        weights = np.ones(sub_df.shape[0])
+        if normalize:
+            weights = 1 / sub_df.values.sum(axis=1)
+        
+        # Find sub_V
+        ids = ids_for_genre(genre, movie_df)
+        sub_V = V[ids - 1]
+        reps.append(np.mean(sub_V * weights[:, None], axis=0))
+    return genres, reps
+
+def get_genre_mean_ratings(data_df, movie_df, genres=None):
+    '''
+    Get the mean ratings for all ratings in each genre
+    '''
+    if genres is None:
+        genres = movie_df.columns[2:]
+    mean_rs = np.array([subselect_from_ids(data_df, ids_for_genre(g, movie_df)).mean().values[-1] for g in genres])
+    inds = np.argsort(mean_rs)[::-1]
+    genres_s = np.array(list(genres))[inds]
+    means = mean_rs[inds]
+    return genres_s, means
+    
     
     
     
