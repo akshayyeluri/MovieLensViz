@@ -55,3 +55,31 @@ def plot_w_genre(genres, movie_df, V, dim_3=False,
     axis.legend(genres)
     if ax is None:
         return axis
+
+def best_movs_ids(data_df, nMovies=10):
+    '''
+    Get the ids of the best movies (highest av rating) 
+    from the data df
+    '''
+    av_ratings = data_df.groupby("Movie Id").aggregate('mean')
+    sort_ratings = av_ratings.sort_values(by='Rating', axis='index', ascending=False)
+    return sort_ratings[:nMovies].index
+
+def pop_movs_ids(data_df, nMovies=10):
+    '''
+    Get the ids of the most popular movies (most ratings) 
+    from the data df
+    '''
+    return data_df["Movie Id"].value_counts()[:nMovies].index
+
+def subselect_from_ids(data_df, ids, V = None):
+    '''
+    Subselect rows from either the data df (if V is None)
+    or V matrix, given a list of ids to use
+    '''
+    inds = data_df["Movie Id"].isin(ids)
+    if V is None:
+        return data_df.loc[inds, :]
+    return V[inds]
+    
+    
