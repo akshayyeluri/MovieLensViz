@@ -51,10 +51,10 @@ def plot_w_ids(ids, movie_df, V, dim_3=False,
         axis if ax was None
     '''
     assert(V.shape[1] >= (3 if dim_3 else 2))
-    sub_Vs = [V[sub_ids - 1] for sub_ids in ids] # 1-indexed V
+    sub_Vs = [V[sub_ids] for sub_ids in ids] # 1-indexed V
 
     if colors is None:
-        colors = plt.cm.viridis(np.linspace(0, 1, len(ids)))
+        colors = plt.cm.plasma(np.linspace(0, 1, len(ids)))
     if ax is None:
         axis = plt.figure().add_subplot(111, projection='3d') if dim_3 else plt.subplot(111)
     else:
@@ -121,13 +121,18 @@ def get_genre_reps(V, movie_df, genres=None, normalize=False):
         
         # Find sub_V
         ids = ids_for_genre(genre, movie_df)
-        sub_V = V[ids - 1]
+        sub_V = V[ids]
         reps.append(np.mean(sub_V * weights[:, None], axis=0))
     return genres, reps
 
+def get_mean_rating(Id, data_df):
+    '''Get mean rating for a movie by Id'''
+    return data_df.loc[data_df["Movie Id"] == Id, "Rating"].values.mean()
+
 def get_genre_mean_ratings(data_df, movie_df, genres=None):
     '''
-    Get the mean ratings for all ratings in each genre
+    Get the mean ratings for all ratings in each genre, sort genres
+    by this mean rating
     '''
     if genres is None:
         genres = movie_df.columns[2:]
@@ -136,6 +141,88 @@ def get_genre_mean_ratings(data_df, movie_df, genres=None):
     genres_s = np.array(list(genres))[inds]
     means = mean_rs[inds]
     return genres_s, means
+    
+
+def six_plots(V, data_df, movie_df, 
+              which=1,
+              three_genres=["Horror", "Animation", "Childrens"], \
+              movies_k = [
+                          "Star Trek: The Motion Picture (1979)",\
+                          "Star Trek V: The Final Frontier (1989)",\
+                          "Star Trek: First Contact (1996)",\
+                          "Jaws 2 (1978)",\
+                          "Jaws 3-D (1983)",\
+                          "Godfather: Part II, The (1974)",\
+                          "Godfather, The (1972)",\
+                          "Three Colors: Red (1994)",\
+                          "Three Colors: Blue (1993)",\
+                          "Three Colors: White (1994)",
+                         ],
+              annotate=False, ax=None,
+              nMovies=10):
+    '''
+    Generate the 6 plots asked for in the spec
+    
+    Args:
+        V: a matrix of (nMovies, k) dimensions, (result of
+            using PCA / SVD on V from collaborative filtering),
+            principal components to plot
+        data_df: dataframe of ratings info
+        movie_df: a movie dataframe with info on
+                what each movie is
+        which: switch variable (integer 1 to 6), which plot to generate
+            which == 1: plot of specified movies
+            which == 2: plot of best nMovies movies
+            which == 3: plot of nMovies most popular movies
+            which >= 4: plot of nMovies random movies from a genre
+                    in three_genres   
+        nMovies: number of movies to plot,
+        movies_k: hardcoded list of movies to plot when which == 1
+                (irrelevant in other cases)
+        three_genres: what genres to use for which >= 4 cases
+        ax: axis to plot on, is optional
+        annotate: Whether to label points with movie titles or not
+               
+    Returns:
+        axis if ax was None
+    '''
+    
+    if ax is None:
+        axis = plt.subplot(121)
+    else:
+        axis = ax
+        
+    if which==1:
+        ids = movie_df.loc[movie_df["Movie Title"].isin(movies_k), "Movie Id"]
+        ax_title = f'{len(movies_k)} movies'
+    elif which==2: # best
+        ids = best_movs_ids(data_df, nMovies)
+        ax_title = f'{nMovies} highest rated movies'
+    elif which==3: # popular
+        ids = pop_movs_ids(data_df, nMovies)
+        ax_title = f'{nMovies} most popular movies'       
+    elif which >= 4: # by genre
+        g = three_genres[which - 4]
+        g_ids = ids_for_genre(g, movie_df)
+        ids = np.random.choice(g_ids, size=nMovies, replace=False)
+        ax_title = f'{nMovies} {g} movies'
+        
+    titles = np.array([movie_df.loc[Id, "Movie Title"] for Id in ids])
+    V_sub = V[ids]
+    colors = np.array([get_mean_rating(Id, data_df) for Id in ids])
+    sc = axis.scatter(V_sub[:, 0], V_sub[:, 1], c=colors)
+    for t, point in zip(titles, V_sub):
+        axis.annotate(t, point[:2])
+    axis.set_title(ax_title)
+    
+    # Add a colorbar
+    clb = plt.colorbar(sc, ax=axis, orientation='horizontal')
+    clb.set_clim(colors.min(), colors.max())
+    clb.set_label('Mean rating')
+    
+    if ax is None:
+        return axis
+
     
     
     
