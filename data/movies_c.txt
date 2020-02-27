@@ -1328,337 +1328,319 @@
 1327	Two Deaths (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 1328	Stefano Quantestorie (1993)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
 1329	Crude Oasis, The (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1330	Hedd Wyn (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1331	Convent, The (Convento, O) (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1332	Lotto Land (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1333	Story of Xinghua, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1334	Day the Sun Turned Cold, The (Tianguo niezi) (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1335	Dingo (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1336	Ballad of Narayama, The (Narayama Bushiko) (1958)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1337	Every Other Weekend (1990)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1338	Mille bolle blu (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1339	Crows and Sparrows (1949)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1340	Lover's Knot (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1341	Shadow of Angels (Schatten der Engel) (1976)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1342	1-900 (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1343	Venice/Venice (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1344	Infinity (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1345	Ed's Next Move (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1346	For the Moment (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
-1347	The Deadly Cure (1996)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1348	Boys in Venice (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1349	Sexual Life of the Belgians, The (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1350	Search for One-eye Jimmy, The (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1351	American Strays (1996)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1352	Leopard Son, The (1996)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1353	Bird of Prey (1996)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1354	Johnny 100 Pesos (1993)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1355	JLG/JLG - autoportrait de décembre (1994)	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
-1356	Faust (1994)	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1357	Mina Tannenbaum (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1358	Forbidden Christ, The (Cristo proibito, Il) (1950)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1359	I Can't Sleep (J'ai pas sommeil) (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
-1360	Machine, The (1994)	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
-1361	Stranger, The (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1362	Good Morning (1971)	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1363	Falling in Love Again (1980)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1364	Cement Garden, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1365	Meet Wally Sparks (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1366	Hotel de Love (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1367	Rhyme & Reason (1997)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1368	Love and Other Catastrophes (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1369	Hollow Reed (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1370	Losing Chase (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1371	Bonheur, Le (1965)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1372	Second Jungle Book: Mowgli & Baloo, The (1997)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1373	Squeeze (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1374	Roseanna's Grave (For Roseanna) (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1375	Tetsuo II: Body Hammer (1992)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-1376	Fall (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1377	Gabbeh (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1378	Mondo (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1379	Innocent Sleep, The (1995)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-1380	For Ever Mozart (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1381	Locusts, The (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1382	Stag (1997)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1383	Swept from the Sea (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1384	Hurricane Streets (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1385	Stonewall (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1386	Of Human Bondage (1934)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1387	Anna (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1388	Stranger in the House (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1389	Picture Bride (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1390	M. Butterfly (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1391	Ciao, Professore! (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1392	Caro Diario (Dear Diary) (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1393	Withnail and I (1987)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1394	Boy's Life 2 (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1395	When Night Is Falling (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1396	Specialist, The (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1397	Gordy (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1398	Swan Princess, The (1994)	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1399	Harlem (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1400	Barbarella (1968)	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-1401	Land Before Time III: The Time of the Great Giving (1995) (V)	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1402	Street Fighter (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1403	Coldblooded (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1404	Next Karate Kid, The (1994)	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1405	No Escape (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-1406	Turning, The (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1407	Joy Luck Club, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1408	Highlander III: The Sorcerer (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-1409	Gilligan's Island: The Movie (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1410	My Crazy Life (Mi vida loca) (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1411	Suture (1993)	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
-1412	Walking Dead, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
-1413	I Like It Like That (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0
-1414	I'll Do Anything (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1415	Grace of My Heart (1996)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1416	Drunks (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1417	SubUrbia (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1418	Sliding Doors (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1419	Ill Gotten Gains (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1420	Legal Deceit (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1421	Mighty, The (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1422	Men of Means (1998)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1423	Shooting Fish (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1424	Steal Big, Steal Little (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1425	Mr. Jones (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1426	House Party 3 (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1427	Panther (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1428	Jason's Lyric (1994)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
-1429	Above the Rim (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1430	Moonlight and Valentino (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1431	Scarlet Letter, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1432	8 Seconds (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1433	That Darn Cat! (1965)	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0
-1434	Ladybird Ladybird (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1435	Bye Bye, Love (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1436	Century (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1437	My Favorite Season (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1438	Pather Panchali (1955)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1439	Golden Earrings (1947)	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1440	Foreign Correspondent (1940)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1441	Lady of Burlesque (1943)	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0
-1442	Angel on My Shoulder (1946)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
-1443	Angel and the Badman (1947)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-1444	Outlaw, The (1943)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-1445	Beat the Devil (1954)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1446	Love Is All There Is (1996)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1447	Damsel in Distress, A (1937)	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0
-1448	Madame Butterfly (1995)	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-1449	Sleepover (1995)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1450	Here Comes Cookie (1935)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1451	Thieves (Voleurs, Les) (1996)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0
-1452	Boys, Les (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1453	Stars Fell on Henrietta, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1454	Last Summer in the Hamptons (1995)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1455	Margaret's Museum (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1456	Saint of Fort Washington, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1457	Cure, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1458	Tom and Huck (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1459	Gumby: The Movie (1995)	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1460	Hideaway (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1461	Visitors, The (Visiteurs, Les) (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
-1462	Little Princess, The (1939)	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1463	Nina Takes a Lover (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1464	Bhaji on the Beach (1993)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1465	Raw Deal (1948)	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-1466	Nightwatch (1997)	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
-1467	Dead Presidents (1995)	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
-1468	Reckless (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1469	Herbie Rides Again (1974)	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1470	S.F.W. (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1471	Gate of Heavenly Peace, The (1995)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1472	Man in the Iron Mask, The (1998)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1473	Jerky Boys, The (1994)	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1474	Colonel Chabert, Le (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
-1475	Girl in the Cadillac (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1476	Even Cowgirls Get the Blues (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1477	Germinal (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1478	Chasers (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1479	Fausto (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1480	Tough and Deadly (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
-1481	Window to Paris (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1482	Modern Affair, A (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1483	Mostro, Il (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1484	Flirt (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1485	Carpool (1996)	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
-1486	Line King: Al Hirschfeld, The (1996)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1487	Farmer & Chase (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1488	Grosse Fatigue (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1489	Santa with Muscles (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1490	Prisoner of the Mountains (Kavkazsky Plennik) (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-1491	Naked in New York (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1492	Gold Diggers: The Secret of Bear Mountain (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1493	Bewegte Mann, Der (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1494	Killer: A Journal of Murder (1995)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
-1495	Nelly & Monsieur Arnaud (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1496	Three Lives and Only One Death (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1497	Babysitter, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
-1498	Getting Even with Dad (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1499	Mad Dog Time (1996)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-1500	Children of the Revolution (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1501	World of Apu, The (Apur Sansar) (1959)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1502	Sprung (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1503	Dream With the Fishes (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1504	Wings of Courage (1995)	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1505	Wedding Gift, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1506	Race the Sun (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1507	Losing Isaiah (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1508	New Jersey Drive (1995)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
-1509	Fear, The (1995)	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-1510	Mr. Wonderful (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1511	Trial by Jury (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1512	Good Man in Africa, A (1994)	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1513	Kaspar Hauser (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1514	Object of My Affection, The (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1515	Witness (1985)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0
-1516	Senseless (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1517	Nowhere (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1518	Underground (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-1519	Jefferson in Paris (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1520	Far From Home: The Adventures of Yellow Dog (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1521	Foreign Student (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1522	I Don't Want to Talk About It (De eso no se habla) (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1523	Twin Town (1997)	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
-1524	Enfer, L' (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1525	Aiqing wansui (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1526	Cosi (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1527	All Over Me (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1528	Being Human (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1529	Amazing Panda Adventure, The (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1530	Beans of Egypt, Maine, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1531	Scarlet Letter, The (1926)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1532	Johns (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1533	It Takes Two (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1534	Frankie Starlight (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1535	Shadows (Cienie) (1988)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1536	Show, The (1995)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1537	The Courtyard (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1538	Dream Man (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1539	Destiny Turns on the Radio (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1540	Glass Shield, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1541	Hunted, The (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1542	Underneath, The (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
-1543	Safe Passage (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1544	Secret Adventures of Tom Thumb, The (1993)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-1545	Condition Red (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
-1546	Yankee Zulu (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1547	Aparajito (1956)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1548	Hostile Intentions (1994)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
-1549	Clean Slate (Coup de Torchon) (1981)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-1550	Tigrero: A Film That Was Never Made (1994)	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
-1551	Eye of Vichy, The (Oeil de Vichy, L') (1993)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1552	Promise, The (Versprechen, Das) (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1553	To Cross the Rubicon (1991)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1554	Daens (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1555	Man from Down Under, The (1943)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1556	Careful (1992)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1557	Vermont Is For Lovers (1992)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1558	Vie est belle, La (Life is Rosey) (1987)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1559	Quartier Mozart (1992)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1560	Touki Bouki (Journey of the Hyena) (1973)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1561	Wend Kuuni (God's Gift) (1982)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1562	Spirits of the Dead (Tre passi nel delirio) (1968)	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-1563	Pharaoh's Army (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-1564	I, Worst of All (Yo, la peor de todas) (1990)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1565	Hungarian Fairy Tale, A (1987)	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-1566	Death in the Garden (Mort en ce jardin, La) (1956)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1567	Collectionneuse, La (1967)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1568	Baton Rouge (1988)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1569	Liebelei (1933)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1570	Woman in Question, The (1950)	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-1571	T-Men (1947)	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-1572	Invitation, The (Zaproszenie) (1986)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1573	Symphonie pastorale, La (1946)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1574	American Dream (1990)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1575	Lashou shentan (1992)	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
-1576	Terror in a Texas Town (1958)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-1577	Salut cousin! (1996)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1578	Schizopolis (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1579	To Have, or Not (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1580	Duoluo tianshi (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1581	Magic Hour, The (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1582	Death in Brunswick (1991)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1583	Everest (1998)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1584	Shopping (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1585	Nemesis 2: Nebula (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
-1586	Romper Stomper (1992)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1587	City of Industry (1997)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
-1588	Someone Else's America (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1589	Guantanamera (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1590	Office Killer (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1591	Price Above Rubies, A (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1592	Angela (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1593	He Walked by Night (1948)	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0
-1594	Love Serenade (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1595	Buddy (1997)	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1596	B*A*P*S (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1597	Truth or Consequences, N.M. (1997)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
-1598	Intimate Relations (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1599	Leading Man, The (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1600	Tokyo Fist (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1601	Reluctant Debutante, The (1958)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1602	Warriors of Virtue (1997)	0	1	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-1603	Desert Winds (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1604	King of New York (1990)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-1605	All Things Fair (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1606	Sixth Man, The (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1607	Butterfly Kiss (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1608	Paris, France (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1609	Cérémonie, La (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1610	Hush (1998)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1611	Nobody Loves Me (Keiner liebt mich) (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1612	Wife, The (1995)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1613	Lamerica (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1614	Nico Icon (1995)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1615	Silence of the Palace, The (Saimt el Qusur) (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1616	Slingshot, The (1993)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1617	Land and Freedom (Tierra y libertad) (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-1618	Á köldum klaka (Cold Fever) (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
-1619	Etz Hadomim Tafus (Under the Domin Tree) (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1620	Two Friends (1986) 	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1621	Brothers in Trouble (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1622	Girls Town (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1623	Normal Life (1996)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
-1624	Bitter Sugar (Azucar Amargo) (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1625	Eighth Day, The (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1626	Dadetown (1995)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-1627	Some Mother's Son (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1628	Angel Baby (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1629	Sudden Manhattan (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1630	Butcher Boy, The (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1631	Men With Guns (1997)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1632	Hana-bi (1997)	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0
-1633	Niagara, Niagara (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1634	Big One, The (1997)	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
-1635	Spanish Prisoner, The (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
-1636	Temptress Moon (Feng Yue) (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-1637	Entertaining Angels: The Dorothy Day Story (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1638	Favor, The (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1639	Little City (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-1640	Target (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1641	Getting Away With Murder (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1642	Small Faces (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1643	New Age, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1644	Rough Magic (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
-1645	Nothing Personal (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
-1646	8 Heads in a Duffel Bag (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1647	Brother's Kiss, A (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1648	Ripe (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1649	Next Step, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1650	Wedding Bell Blues (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1651	MURDER and murder (1996)	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0
-1652	Tainted (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
-1653	Further Gesture, A (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1654	Kika (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1655	Mirage (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-1656	Mamma Roma (1962)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1657	Sunchaser, The (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1658	War at Home, The (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1659	Sweet Nothing (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1660	Mat' i syn (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-1661	B. Monkey (1998)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0
-1662	You So Crazy (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-1663	Scream of Stone (Schrei aus Stein) (1991)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1330	Convent, The (Convento, O) (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1331	Lotto Land (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1332	Story of Xinghua, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1333	Day the Sun Turned Cold, The (Tianguo niezi) (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1334	Dingo (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1335	Ballad of Narayama, The (Narayama Bushiko) (1958)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1336	Every Other Weekend (1990)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1337	Mille bolle blu (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1338	Crows and Sparrows (1949)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1339	Lover's Knot (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1340	1-900 (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1341	Venice/Venice (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1342	Infinity (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1343	Ed's Next Move (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1344	For the Moment (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+1345	The Deadly Cure (1996)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1346	Boys in Venice (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1347	Sexual Life of the Belgians, The (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1348	Search for One-eye Jimmy, The (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1349	American Strays (1996)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1350	Leopard Son, The (1996)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1351	Bird of Prey (1996)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1352	Johnny 100 Pesos (1993)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1353	JLG/JLG - autoportrait de décembre (1994)	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+1354	Faust (1994)	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1355	Mina Tannenbaum (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1356	Forbidden Christ, The (Cristo proibito, Il) (1950)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1357	I Can't Sleep (J'ai pas sommeil) (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+1358	Machine, The (1994)	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+1359	Stranger, The (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1360	Good Morning (1971)	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1361	Falling in Love Again (1980)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1362	Cement Garden, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1363	Meet Wally Sparks (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1364	Hotel de Love (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1365	Rhyme & Reason (1997)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1366	Love and Other Catastrophes (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1367	Hollow Reed (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1368	Losing Chase (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1369	Bonheur, Le (1965)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1370	Second Jungle Book: Mowgli & Baloo, The (1997)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1371	Squeeze (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1372	Roseanna's Grave (For Roseanna) (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1373	Tetsuo II: Body Hammer (1992)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1374	Fall (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1375	Gabbeh (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1376	Mondo (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1377	Innocent Sleep, The (1995)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+1378	For Ever Mozart (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1379	Locusts, The (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1380	Stag (1997)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1381	Swept from the Sea (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1382	Hurricane Streets (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1383	Stonewall (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1384	Of Human Bondage (1934)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1385	Anna (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1386	Stranger in the House (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1387	Picture Bride (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1388	M. Butterfly (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1389	Ciao, Professore! (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1390	Caro Diario (Dear Diary) (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1391	Withnail and I (1987)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1392	Boy's Life 2 (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1393	When Night Is Falling (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1394	Specialist, The (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1395	Gordy (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1396	Swan Princess, The (1994)	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1397	Harlem (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1398	Barbarella (1968)	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1399	Land Before Time III: The Time of the Great Giving (1995) (V)	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1400	Street Fighter (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1401	Coldblooded (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1402	Next Karate Kid, The (1994)	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1403	No Escape (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1404	Turning, The (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1405	Joy Luck Club, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1406	Highlander III: The Sorcerer (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+1407	Gilligan's Island: The Movie (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1408	My Crazy Life (Mi vida loca) (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1409	Suture (1993)	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+1410	Walking Dead, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+1411	I Like It Like That (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0
+1412	I'll Do Anything (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1413	Grace of My Heart (1996)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1414	Drunks (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1415	SubUrbia (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1416	Sliding Doors (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1417	Ill Gotten Gains (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1418	Legal Deceit (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1419	Mighty, The (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1420	Men of Means (1998)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1421	Shooting Fish (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1422	Steal Big, Steal Little (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1423	Mr. Jones (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1424	House Party 3 (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1425	Panther (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1426	Jason's Lyric (1994)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+1427	Above the Rim (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1428	Moonlight and Valentino (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1429	Scarlet Letter, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1430	8 Seconds (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1431	That Darn Cat! (1965)	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+1432	Ladybird Ladybird (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1433	Bye Bye, Love (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1434	Century (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1435	My Favorite Season (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1436	Pather Panchali (1955)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1437	Golden Earrings (1947)	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1438	Foreign Correspondent (1940)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1439	Lady of Burlesque (1943)	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+1440	Angel on My Shoulder (1946)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+1441	Angel and the Badman (1947)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1442	Outlaw, The (1943)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1443	Beat the Devil (1954)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1444	Love Is All There Is (1996)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1445	Damsel in Distress, A (1937)	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0
+1446	Madame Butterfly (1995)	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+1447	Here Comes Cookie (1935)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1448	Thieves (Voleurs, Les) (1996)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0
+1449	Boys, Les (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1450	Stars Fell on Henrietta, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1451	Last Summer in the Hamptons (1995)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1452	Margaret's Museum (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1453	Saint of Fort Washington, The (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1454	Cure, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1455	Tom and Huck (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1456	Gumby: The Movie (1995)	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1457	Hideaway (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1458	Visitors, The (Visiteurs, Les) (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+1459	Little Princess, The (1939)	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1460	Nina Takes a Lover (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1461	Bhaji on the Beach (1993)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1462	Raw Deal (1948)	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+1463	Nightwatch (1997)	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+1464	Dead Presidents (1995)	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+1465	Reckless (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1466	Herbie Rides Again (1974)	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1467	S.F.W. (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1468	Gate of Heavenly Peace, The (1995)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1469	Man in the Iron Mask, The (1998)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1470	Jerky Boys, The (1994)	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1471	Colonel Chabert, Le (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0
+1472	Girl in the Cadillac (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1473	Even Cowgirls Get the Blues (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1474	Germinal (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1475	Chasers (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1476	Fausto (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1477	Tough and Deadly (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+1478	Window to Paris (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1479	Modern Affair, A (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1480	Mostro, Il (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1481	Flirt (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1482	Carpool (1996)	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+1483	Line King: Al Hirschfeld, The (1996)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1484	Farmer & Chase (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1485	Grosse Fatigue (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1486	Santa with Muscles (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1487	Prisoner of the Mountains (Kavkazsky Plennik) (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1488	Naked in New York (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1489	Gold Diggers: The Secret of Bear Mountain (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1490	Bewegte Mann, Der (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1491	Killer: A Journal of Murder (1995)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+1492	Nelly & Monsieur Arnaud (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1493	Three Lives and Only One Death (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1494	Babysitter, The (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+1495	Getting Even with Dad (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1496	Mad Dog Time (1996)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+1497	Children of the Revolution (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1498	World of Apu, The (Apur Sansar) (1959)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1499	Sprung (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1500	Dream With the Fishes (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1501	Wings of Courage (1995)	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1502	Wedding Gift, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1503	Race the Sun (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1504	Losing Isaiah (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1505	New Jersey Drive (1995)	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+1506	Fear, The (1995)	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+1507	Mr. Wonderful (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1508	Trial by Jury (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1509	Good Man in Africa, A (1994)	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1510	Kaspar Hauser (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1511	Object of My Affection, The (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1512	Witness (1985)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0
+1513	Senseless (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1514	Nowhere (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1515	Underground (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1516	Jefferson in Paris (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1517	Far From Home: The Adventures of Yellow Dog (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1518	Foreign Student (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1519	I Don't Want to Talk About It (De eso no se habla) (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1520	Twin Town (1997)	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+1521	Enfer, L' (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1522	Aiqing wansui (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1523	Cosi (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1524	All Over Me (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1525	Being Human (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1526	Amazing Panda Adventure, The (1995)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1527	Beans of Egypt, Maine, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1528	Scarlet Letter, The (1926)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1529	Johns (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1530	It Takes Two (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1531	Frankie Starlight (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1532	Shadows (Cienie) (1988)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1533	Show, The (1995)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1534	The Courtyard (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1535	Dream Man (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1536	Destiny Turns on the Radio (1995)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1537	Glass Shield, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1538	Hunted, The (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1539	Underneath, The (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+1540	Safe Passage (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1541	Secret Adventures of Tom Thumb, The (1993)	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1542	Condition Red (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+1543	Yankee Zulu (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1544	Aparajito (1956)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1545	Hostile Intentions (1994)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+1546	Clean Slate (Coup de Torchon) (1981)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+1547	Tigrero: A Film That Was Never Made (1994)	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+1548	Eye of Vichy, The (Oeil de Vichy, L') (1993)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1549	Promise, The (Versprechen, Das) (1994)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1550	To Cross the Rubicon (1991)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1551	Daens (1992)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1552	Man from Down Under, The (1943)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1553	Careful (1992)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1554	Vermont Is For Lovers (1992)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1555	Vie est belle, La (Life is Rosey) (1987)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1556	Quartier Mozart (1992)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1557	Touki Bouki (Journey of the Hyena) (1973)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1558	Wend Kuuni (God's Gift) (1982)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1559	Spirits of the Dead (Tre passi nel delirio) (1968)	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+1560	Pharaoh's Army (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1561	I, Worst of All (Yo, la peor de todas) (1990)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1562	Hungarian Fairy Tale, A (1987)	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+1563	Death in the Garden (Mort en ce jardin, La) (1956)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1564	Collectionneuse, La (1967)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1565	Baton Rouge (1988)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1566	Liebelei (1933)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1567	Woman in Question, The (1950)	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+1568	T-Men (1947)	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+1569	Invitation, The (Zaproszenie) (1986)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1570	Symphonie pastorale, La (1946)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1571	American Dream (1990)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1572	Lashou shentan (1992)	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+1573	Terror in a Texas Town (1958)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+1574	Salut cousin! (1996)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1575	Schizopolis (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1576	To Have, or Not (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1577	Duoluo tianshi (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1578	Magic Hour, The (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1579	Death in Brunswick (1991)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1580	Shopping (1994)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1581	Nemesis 2: Nebula (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+1582	Romper Stomper (1992)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1583	City of Industry (1997)	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+1584	Someone Else's America (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1585	Guantanamera (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1586	Office Killer (1997)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1587	Price Above Rubies, A (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1588	Angela (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1589	He Walked by Night (1948)	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0
+1590	Love Serenade (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1591	Buddy (1997)	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1592	B*A*P*S (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1593	Truth or Consequences, N.M. (1997)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+1594	Intimate Relations (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1595	Leading Man, The (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1596	Tokyo Fist (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1597	Reluctant Debutante, The (1958)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1598	Warriors of Virtue (1997)	0	1	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+1599	Desert Winds (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1600	King of New York (1990)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+1601	All Things Fair (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1602	Sixth Man, The (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1603	Butterfly Kiss (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1604	Paris, France (1993)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1605	Cérémonie, La (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1606	Hush (1998)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1607	Wife, The (1995)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1608	Lamerica (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1609	Nico Icon (1995)	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+1610	Slingshot, The (1993)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1611	Land and Freedom (Tierra y libertad) (1995)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+1612	Á köldum klaka (Cold Fever) (1994)	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+1613	Etz Hadomim Tafus (Under the Domin Tree) (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1614	Two Friends (1986) 	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1615	Bitter Sugar (Azucar Amargo) (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1616	Some Mother's Son (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1617	Angel Baby (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1618	Sudden Manhattan (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1619	Butcher Boy, The (1998)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1620	Men With Guns (1997)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1621	Hana-bi (1997)	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0
+1622	Niagara, Niagara (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1623	Big One, The (1997)	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+1624	Spanish Prisoner, The (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+1625	Temptress Moon (Feng Yue) (1996)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+1626	Entertaining Angels: The Dorothy Day Story (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1627	Favor, The (1994)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1628	Little City (1998)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+1629	Target (1995)	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1630	Small Faces (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1631	New Age, The (1994)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1632	Rough Magic (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+1633	Nothing Personal (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+1634	8 Heads in a Duffel Bag (1997)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1635	Brother's Kiss, A (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1636	Ripe (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1637	Wedding Bell Blues (1996)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+1638	MURDER and murder (1996)	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0
+1639	Further Gesture, A (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1640	Kika (1993)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1641	Mirage (1995)	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+1642	War at Home, The (1996)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1643	Sweet Nothing (1995)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1644	Mat' i syn (1997)	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+1645	B. Monkey (1998)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0
