@@ -188,7 +188,7 @@ def six_plots(V, data_df, movie_df,
     '''
     
     if ax is None:
-        axis = plt.subplot(121)
+        axis = plt.subplot(111)
     else:
         axis = ax
         
